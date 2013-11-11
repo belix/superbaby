@@ -7,7 +7,12 @@
 //
 
 #import <SpriteKit/SpriteKit.h>
+#import <CoreMotion/CoreMotion.h>
+
 
 @interface IBMyScene : SKScene
+
+@property (nonatomic,strong) CMMotionManager* motionManager;
+
 
 @end

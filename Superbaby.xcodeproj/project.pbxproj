@@ -52,12 +52,16 @@
 		0522238618315CBA00BC2753 /* Helm_fertig@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522237E18315CBA00BC2753 /* Helm_fertig@2x.png */; };
 		0522238718315CBA00BC2753 /* baby_kleiner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522237F18315CBA00BC2753 /* baby_kleiner@2x.png */; };
 		0522238818315CBA00BC2753 /* baby_kleiner.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522238018315CBA00BC2753 /* baby_kleiner.png */; };
-		0522238918315CBA00BC2753 /* flamme-hinten1_kleiner.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522238118315CBA00BC2753 /* flamme-hinten1_kleiner.png */; };
 		0522238A18315CBA00BC2753 /* flamme-unten_kleiner.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522238218315CBA00BC2753 /* flamme-unten_kleiner.png */; };
-		0522238B18315CBA00BC2753 /* flamme-hinten1_kleiner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522238318315CBA00BC2753 /* flamme-hinten1_kleiner@2x.png */; };
 		0522238E18315E4300BC2753 /* flamme-unten_kleiner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522238D18315E4300BC2753 /* flamme-unten_kleiner@2x.png */; };
 		0522239118315E4F00BC2753 /* flasche_kleiner.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522238F18315E4F00BC2753 /* flasche_kleiner.png */; };
 		0522239218315E4F00BC2753 /* flasche_kleiner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522239018315E4F00BC2753 /* flasche_kleiner@2x.png */; };
+		0522239918315FD400BC2753 /* flamme-hinten1_kleiner.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522239318315FD400BC2753 /* flamme-hinten1_kleiner.png */; };
+		0522239A18315FD400BC2753 /* flamme-hinten2_kleiner.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522239418315FD400BC2753 /* flamme-hinten2_kleiner.png */; };
+		0522239B18315FD400BC2753 /* flamme-hinten3_kleiner.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522239518315FD400BC2753 /* flamme-hinten3_kleiner.png */; };
+		0522239C18315FD400BC2753 /* flamme-hinten1_kleiner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522239618315FD400BC2753 /* flamme-hinten1_kleiner@2x.png */; };
+		0522239D18315FD400BC2753 /* flamme-hinten2_kleiner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522239718315FD400BC2753 /* flamme-hinten2_kleiner@2x.png */; };
+		0522239E18315FD400BC2753 /* flamme-hinten3_kleiner@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0522239818315FD400BC2753 /* flamme-hinten3_kleiner@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -124,12 +128,16 @@
 		0522237E18315CBA00BC2753 /* Helm_fertig@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Helm_fertig@2x.png"; sourceTree = "<group>"; };
 		0522237F18315CBA00BC2753 /* baby_kleiner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "baby_kleiner@2x.png"; sourceTree = "<group>"; };
 		0522238018315CBA00BC2753 /* baby_kleiner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baby_kleiner.png; sourceTree = "<group>"; };
-		0522238118315CBA00BC2753 /* flamme-hinten1_kleiner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-hinten1_kleiner.png"; sourceTree = "<group>"; };
 		0522238218315CBA00BC2753 /* flamme-unten_kleiner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-unten_kleiner.png"; sourceTree = "<group>"; };
-		0522238318315CBA00BC2753 /* flamme-hinten1_kleiner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-hinten1_kleiner@2x.png"; sourceTree = "<group>"; };
 		0522238D18315E4300BC2753 /* flamme-unten_kleiner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-unten_kleiner@2x.png"; sourceTree = "<group>"; };
 		0522238F18315E4F00BC2753 /* flasche_kleiner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flasche_kleiner.png; sourceTree = "<group>"; };
 		0522239018315E4F00BC2753 /* flasche_kleiner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flasche_kleiner@2x.png"; sourceTree = "<group>"; };
+		0522239318315FD400BC2753 /* flamme-hinten1_kleiner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-hinten1_kleiner.png"; sourceTree = "<group>"; };
+		0522239418315FD400BC2753 /* flamme-hinten2_kleiner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-hinten2_kleiner.png"; sourceTree = "<group>"; };
+		0522239518315FD400BC2753 /* flamme-hinten3_kleiner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-hinten3_kleiner.png"; sourceTree = "<group>"; };
+		0522239618315FD400BC2753 /* flamme-hinten1_kleiner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-hinten1_kleiner@2x.png"; sourceTree = "<group>"; };
+		0522239718315FD400BC2753 /* flamme-hinten2_kleiner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-hinten2_kleiner@2x.png"; sourceTree = "<group>"; };
+		0522239818315FD400BC2753 /* flamme-hinten3_kleiner@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flamme-hinten3_kleiner@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -300,12 +308,16 @@
 				0522237E18315CBA00BC2753 /* Helm_fertig@2x.png */,
 				0522238018315CBA00BC2753 /* baby_kleiner.png */,
 				0522237F18315CBA00BC2753 /* baby_kleiner@2x.png */,
-				0522238118315CBA00BC2753 /* flamme-hinten1_kleiner.png */,
-				0522238318315CBA00BC2753 /* flamme-hinten1_kleiner@2x.png */,
 				0522238218315CBA00BC2753 /* flamme-unten_kleiner.png */,
 				0522238D18315E4300BC2753 /* flamme-unten_kleiner@2x.png */,
 				0522238F18315E4F00BC2753 /* flasche_kleiner.png */,
 				0522239018315E4F00BC2753 /* flasche_kleiner@2x.png */,
+				0522239318315FD400BC2753 /* flamme-hinten1_kleiner.png */,
+				0522239618315FD400BC2753 /* flamme-hinten1_kleiner@2x.png */,
+				0522239418315FD400BC2753 /* flamme-hinten2_kleiner.png */,
+				0522239718315FD400BC2753 /* flamme-hinten2_kleiner@2x.png */,
+				0522239518315FD400BC2753 /* flamme-hinten3_kleiner.png */,
+				0522239818315FD400BC2753 /* flamme-hinten3_kleiner@2x.png */,
 			);
 			name = baby;
 			sourceTree = "<group>";
@@ -400,25 +412,29 @@
 				0522238518315CBA00BC2753 /* Helm_fertig.png in Resources */,
 				052223691831573300BC2753 /* stadt-links.png in Resources */,
 				052223681831573300BC2753 /* Dorf_zaun@2x.png in Resources */,
+				0522239B18315FD400BC2753 /* flamme-hinten3_kleiner.png in Resources */,
 				052223621831573300BC2753 /* berg_links@2x.png in Resources */,
 				0522239218315E4F00BC2753 /* flasche_kleiner@2x.png in Resources */,
 				0522238618315CBA00BC2753 /* Helm_fertig@2x.png in Resources */,
 				052223741831573300BC2753 /* Strand_ende@2.png in Resources */,
+				0522239D18315FD400BC2753 /* flamme-hinten2_kleiner@2x.png in Resources */,
 				052223641831573300BC2753 /* Berg_rechts@2x.png in Resources */,
+				0522239918315FD400BC2753 /* flamme-hinten1_kleiner.png in Resources */,
 				0522238818315CBA00BC2753 /* baby_kleiner.png in Resources */,
 				052223701831573300BC2753 /* Strand@2x.png in Resources */,
+				0522239A18315FD400BC2753 /* flamme-hinten2_kleiner.png in Resources */,
 				052223721831573300BC2753 /* Strand_anfang@2x.png in Resources */,
 				0522238718315CBA00BC2753 /* baby_kleiner@2x.png in Resources */,
 				052223631831573300BC2753 /* Berg_rechts.png in Resources */,
-				0522238918315CBA00BC2753 /* flamme-hinten1_kleiner.png in Resources */,
 				052223751831573300BC2753 /* Straße_neu.png in Resources */,
 				0522239118315E4F00BC2753 /* flasche_kleiner.png in Resources */,
 				052223761831573300BC2753 /* Straße_neu@2x.png in Resources */,
 				052223671831573300BC2753 /* Dorf_zaun.png in Resources */,
 				0522236F1831573300BC2753 /* Strand.png in Resources */,
 				0522236A1831573300BC2753 /* stadt-links@2x.png in Resources */,
-				0522238B18315CBA00BC2753 /* flamme-hinten1_kleiner@2x.png in Resources */,
 				052223661831573300BC2753 /* Berge_mitte@2x.png in Resources */,
+				0522239C18315FD400BC2753 /* flamme-hinten1_kleiner@2x.png in Resources */,
+				0522239E18315FD400BC2753 /* flamme-hinten3_kleiner@2x.png in Resources */,
 				052223731831573300BC2753 /* Strand_ende.png in Resources */,
 				0522238A18315CBA00BC2753 /* flamme-unten_kleiner.png in Resources */,
 				052223711831573300BC2753 /* Strand_anfang.png in Resources */,
@@ -668,6 +684,7 @@
 				05222310183149DB00BC2753 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		05222311183149DB00BC2753 /* Build configuration list for PBXNativeTarget "SuperbabyTests" */ = {
 			isa = XCConfigurationList;
@@ -676,6 +693,7 @@
 				05222313183149DB00BC2753 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

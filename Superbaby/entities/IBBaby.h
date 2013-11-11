@@ -10,4 +10,6 @@
 
 @interface IBBaby : SKSpriteNode
 
+@property (nonatomic) CGRect rect;
+
 @end

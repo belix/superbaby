@@ -39,8 +39,30 @@
         babyCorpus = [SKSpriteNode spriteNodeWithImageNamed:@"baby_kleiner.png"];
         babyCorpus.position = CGPointMake(0,18);
         [self addChild:babyCorpus];
+        
+        [self animateLeftFire];
     }
     return self;
 }
+
+
+
+-(void)animateLeftFire{
+    NSMutableArray* textures = [NSMutableArray arrayWithCapacity:5];
+    for (int i = 1; i < 4; i++) {
+        SKTexture* texture = [SKTexture textureWithImageNamed:[NSString stringWithFormat:@"flamme-hinten%i_kleiner.png",i]];
+        [textures addObject:texture];
+    }
+    
+    [leftFire runAction:[SKAction repeatActionForever:
+                      [SKAction animateWithTextures:textures
+                                       timePerFrame:0.1f
+                                             resize:NO
+                                            restore:YES]] withKey:@"animateLeftFire"];
+    
+    return;
+}
+
+
 
 @end
